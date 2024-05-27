@@ -2,6 +2,5 @@
 echo "hello world"
 ?>
 
-merge conflicted
+merge conflict testing
 
-one more
